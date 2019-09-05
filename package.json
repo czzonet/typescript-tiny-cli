@@ -1,0 +1,13 @@
+{
+  "name": "typescript-scaffold",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "czz <czzonet@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc &&  node ./dist/index.js"
+  },
+  "dependencies": {
+    "@types/node": "^12.7.4"
+  }
+}
