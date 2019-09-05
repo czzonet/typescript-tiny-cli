@@ -1,8 +1,8 @@
 {
-  "name": "typescript-scaffold",
+  "name": "typescript-tiny-cli",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "czz <czzonet@163.com>",
+  "author": "yourname <your-email@163.com>",
   "license": "MIT",
   "scripts": {
     "dev": "tsc &&  node ./dist/index.js"
